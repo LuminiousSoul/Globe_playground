@@ -13,7 +13,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "three": "^0.158.0",
+    "three": "^0.181.2",
     "cesium": "^1.110.0",
     "@mediapipe/hands": "^0.4.1646424915",
     "@mediapipe/camera_utils": "^0.3.1640029074",
