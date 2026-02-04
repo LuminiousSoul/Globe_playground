@@ -14,7 +14,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "three": "^0.158.0",
-    "cesium": "^1.110.0",
+    "cesium": "^1.137.0",
     "@mediapipe/hands": "^0.4.1646424915",
     "@mediapipe/camera_utils": "^0.3.1640029074",
     "@mediapipe/drawing_utils": "^0.3.1620248257",
