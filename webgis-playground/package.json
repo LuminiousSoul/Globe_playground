@@ -24,7 +24,7 @@
     "leaflet": "^1.9.4",
     "react-leaflet": "^4.2.1",
     "framer-motion": "^10.16.4",
-    "styled-components": "^6.1.0"
+    "styled-components": "^6.3.6"
   },
   "browserslist": {
     "production": [
